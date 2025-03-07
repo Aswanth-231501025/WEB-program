@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.div-form{
+    border: 1px solid;
+    padding: 30px;
+    border-radius: 30px;
+}
+.div-btn{
+    margin-top: 20px;
+    display: flex;
+    justify-content:center ;
+}
